@@ -4,8 +4,8 @@ A lab to explore binary search trees. Now with Maven!
 
 Authors
 
-* Your name here
-* Your name here
+* Yash
+* Slok
 * Samuel A. Rebelsky (starter code)
 
 This code may be found at <https://github.com/USERNAME/mp-bst-maven>.
